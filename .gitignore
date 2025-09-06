@@ -1,3 +1,6 @@
 __pycache__
 .env
 venv
+dist
+all_requirement.txt
+setup.py
