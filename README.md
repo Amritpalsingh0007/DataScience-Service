@@ -84,14 +84,3 @@ Once running, open the interactive API docs:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-```
-
-✅ This version won’t “break” on GitHub since nested code blocks are handled properly.  
-
-Do you want me to also **add sample endpoints (like `/predict` or `/health`)** so people immediately see how to use it, or keep it generic for now?
-```
